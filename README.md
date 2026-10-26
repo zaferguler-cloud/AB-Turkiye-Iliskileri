@@ -24,6 +24,7 @@ Bu sayfada **SBF 305 Avrupa Birliği ve Türkiye İlişkileri** dersinin materya
 |---|---|
 | [AB_Karar_Alma_Yontemi_ve_Grup_Dagilimi.pdf](AB_Karar_Alma_Yontemi_ve_Grup_Dagilimi.pdf) | AB'de karar alma yöntemi ve grup dağılımı |
 | [AB_Turkiye_Iliskileri_Okuma_Listesi.pdf](AB_Turkiye_Iliskileri_Okuma_Listesi.pdf) | Ders okuma listesi |
+| [Hukuk_Tanimi_Fonksiyonlari.pdf](Hukuk_Tanimi_Fonksiyonlari.pdf) | Hukukun tanımı ve fonksiyonları |
 
 Yeni haftaların materyalleri bu sayfaya eklenecektir.
 
